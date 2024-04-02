@@ -17,7 +17,7 @@
     />
   </a>
   &nbsp;
-  <a href="https://k_shmurakov.t.me/" target="_blank">
+  <a href="https://k_shmurakov.t.me/">
     <img 
       src=".github/telegram.png"
       alt="t.me/k_shmurakov"
@@ -29,10 +29,19 @@
 
 <blockquote>I'm junior developer looking for myself in different development directions. I pay a lot of attention to detail to generate something cool! 😎</blockquote>
 
+<h2>🌐 Websites</h2>
+<p>
+  <a href="https://xn-----180-4nfflsib2fci4g2i6b.xn--p1ai/">
+    <img src=".github/web-card-1.png" width="250"/>
+  </a>
+</p>
+
+<h2>🎮 Games</h2>
+
 <br/>
 <p align="center">
   <sub>
     Icons by 
-    <a href="https://icons8.com" target="_blank">Icons8
+    <a href="https://icons8.com">Icons8
   </sub>
 </p>

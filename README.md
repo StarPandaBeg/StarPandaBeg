@@ -34,6 +34,10 @@
   <a href="https://xn-----180-4nfflsib2fci4g2i6b.xn--p1ai/">
     <img src=".github/web-card-1.png" width="250"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/StarPandaBeg/mood-commerce">
+    <img src=".github/web-card-2.png" width="250"/>
+  </a>
 </p>
 
 <h2>🎮 Games</h2>

@@ -29,6 +29,18 @@
 
 <blockquote>I'm junior developer looking for myself in different development directions. I pay a lot of attention to detail to generate something cool! 😎</blockquote>
 
+<h2>💻 Languages and Tools 🛠️</h2>
+<p>
+  <img alt="Vue" src="https://img.shields.io/badge/Vue--4FC08D?style=for-the-badge&logo=vuedotjs">
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt--00DC82?style=for-the-badge&logo=nuxtdotjs">
+  <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify--1867C0?style=for-the-badge&logo=vuetify&logoColor=1867C0">
+  <img alt="Inertia" src="https://img.shields.io/badge/Inertia--9553E9?style=for-the-badge&logo=inertia">
+  <img alt="Sass" src="https://img.shields.io/badge/Sass--CC6699?style=for-the-badge&logo=sass">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind--06B6D4?style=for-the-badge&logo=tailwindcss">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript--blue?style=for-the-badge&logo=typescript">
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel--FF2D20?style=for-the-badge&logo=laravel">
+</p>
+
 <h2>🌐 Websites</h2>
 <p>
   <a href="https://xn-----180-4nfflsib2fci4g2i6b.xn--p1ai/" alt="'Dream' Furniture E-Commerce" title="'Dream' Furniture E-Commerce">

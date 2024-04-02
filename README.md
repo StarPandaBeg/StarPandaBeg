@@ -41,6 +41,11 @@
 </p>
 
 <h2>🎮 Games</h2>
+<p>
+  <a href="https://github.com/StarPandaBeg/DayNNight">
+    <img src=".github/games-card-1.png" width="250"/>
+  </a>
+</p>
 
 <br/>
 <p align="center">

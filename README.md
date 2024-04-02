@@ -53,6 +53,10 @@
   <a href="https://github.com/StarPandaBeg/DayNNight" alt="Day n' Night - Animation" title="Day n' Night - Animation">
     <img src=".github/games-card-3.png" width="270"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/StarPandaBeg/YASG" alt="Yet Another Snake Game" title="Yet Another Snake Game">
+    <img src=".github/games-card-4.png" width="270"/>
+  </a>
 </p>
 
 <br/>

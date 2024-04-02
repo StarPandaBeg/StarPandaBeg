@@ -45,6 +45,10 @@
   <a href="https://github.com/StarPandaBeg/DayNNight" alt="Day n' Night - Animation" title="Day n' Night - Animation">
     <img src=".github/games-card-1.png" width="300"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/StarPandaBeg/ChallengePack" alt="ChallengePack - Mod for Buckshot Roulette" title="ChallengePack - Mod for Buckshot Roulette">
+    <img src=".github/games-card-2.png" width="300"/>
+  </a>
 </p>
 
 <br/>

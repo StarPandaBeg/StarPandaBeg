@@ -31,19 +31,19 @@
 
 <h2>🌐 Websites</h2>
 <p>
-  <a href="https://xn-----180-4nfflsib2fci4g2i6b.xn--p1ai/">
-    <img src=".github/web-card-1.png" width="250"/>
+  <a href="https://xn-----180-4nfflsib2fci4g2i6b.xn--p1ai/" alt="'Dream' Furniture E-Commerce" title="'Dream' Furniture E-Commerce">
+    <img src=".github/web-card-1.png" width="300"/>
   </a>
   &nbsp;
-  <a href="https://github.com/StarPandaBeg/mood-commerce">
-    <img src=".github/web-card-2.png" width="250"/>
+  <a href="https://github.com/StarPandaBeg/mood-commerce" alt="'Mood' Cloth E-Commerce" title="'Mood' Cloth E-Commerce">
+    <img src=".github/web-card-2.png" width="300"/>
   </a>
 </p>
 
 <h2>🎮 Games</h2>
 <p>
-  <a href="https://github.com/StarPandaBeg/DayNNight">
-    <img src=".github/games-card-1.png" width="250"/>
+  <a href="https://github.com/StarPandaBeg/DayNNight" alt="Day n' Night - Animation" title="Day n' Night - Animation">
+    <img src=".github/games-card-1.png" width="300"/>
   </a>
 </p>
 

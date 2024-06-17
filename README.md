@@ -50,6 +50,14 @@
   <a href="https://github.com/StarPandaBeg/mood-commerce" alt="'Mood' Cloth E-Commerce" title="'Mood' Cloth E-Commerce">
     <img src=".github/web-card-2.png" width="270"/>
   </a>
+  &nbsp;
+  <a href="https://github.com/StarPandaBeg/kubok-frontend" alt="HireLens App" title="HireLens App">
+    <img src=".github/web-card-3.png" width="270"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/StarPandaBeg/kod-mira-frontend" alt="Business Trip App" title="Business Trip App">
+    <img src=".github/web-card-4.png" width="270"/>
+  </a>
 </p>
 
 <h2>🎮 Games</h2>

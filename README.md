@@ -34,20 +34,22 @@
 > I'm currently studying and working on software development!
 
 <h2>💻 Languages and Tools 🛠️</h2>
+<h4>Frontend</h4>
 <p>
-  <h4>Web</h4>
   <img alt="React" src="https://img.shields.io/badge/React--61DAFB?style=for-the-badge&logo=react"/>
   <img alt="NextJS" src="https://img.shields.io/badge/NextJS--ffffff?style=for-the-badge&logo=nextdotjs"/>
   <img alt="Sass" src="https://img.shields.io/badge/Sass--CC6699?style=for-the-badge&logo=sass"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind--06B6D4?style=for-the-badge&logo=tailwindcss"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript--blue?style=for-the-badge&logo=typescript"/>
 </p>
+
+<h4>Backend</h4>
 <p>
-  <h4>Backend</h4>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS--E0234E?style=for-the-badge&logo=nestjs"/>
 </p>
+
+<h4>Mobile</h4>
 <p>
-  <h4>Mobile</h4>
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter--02569B?style=for-the-badge&logo=flutter"/>
 </p>
 
